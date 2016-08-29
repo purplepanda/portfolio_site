@@ -1,0 +1,30 @@
+{
+  "name": "ppdo",
+  "version": "1.0.0",
+  "description": "Amanda's Web Development Portfolio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amanda Olczak",
+  "license": "ISC",
+  "devDependencies": {
+  "browser-sync": "^2.14.0",
+  "gulp": "^3.9.1",
+  "gulp-autoprefixer": "^3.1.0",
+  "gulp-concat": "^2.6.0",
+  "gulp-connect": "^5.0.0",
+  "gulp-jshint": "^2.0.1",
+  "gulp-minify-css": "^1.2.4",
+  "gulp-sass": "^2.3.2",
+  "gulp-strip-debug": "^1.1.0",
+  "gulp-uglify": "^2.0.0",
+  "jasmine-core": "^2.4.1",
+  "jshint": "^2.9.2",
+  "jshint-stylish": "^2.2.0",
+  "karma": "^1.1.2",
+  "karma-chrome-launcher": "^1.0.1",
+  "karma-jasmine": "^1.0.2",
+  "karma-phantomjs-launcher": "^1.0.1"
+}
+}
